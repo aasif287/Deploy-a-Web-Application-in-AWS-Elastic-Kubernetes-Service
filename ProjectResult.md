@@ -1,4 +1,4 @@
-# Kubernetes-Web-Application
+# AWS Kubernetes Web Application
 
 In this project I deploying a Web Application in AWS Elastic Kubernetes Service (EKS).
 
